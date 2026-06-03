@@ -305,6 +305,7 @@ export default function App() {
 
     setEstimatePrice(range);
   };
+  
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 font-sans selection:bg-cyan-500 selection:text-slate-950 overflow-x-hidden">
